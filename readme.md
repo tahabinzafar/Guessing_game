@@ -1,7 +1,7 @@
 # Guessing Game
 
 ## Description
-The Guessing Game is a simple two-player game where one large language model asks questions to another LLM to guess the answer. The game consists of 5 rounds, and at the end of each round, the result is displayed to indicate which model wins the round.
+The Guessing Game is a simple two-player game where one large language model asks questions to another LLM to guess the answer. The game consists of 5 rounds, and the result is displayed at the end to indicate which model wins the game.
 
 ## Installation
 1. Clone this repository.
